@@ -8,6 +8,13 @@ Es un módulo a medida para una empresa agrícola-ganadera, pensado para dejar a
 
 Por ahora el módulo está en etapa de análisis y diseño, así que este repositorio tiene solo la documentación y todavía no hay código.
 
+## Documentación
+
+- [Historias de usuario](docs/historias-de-usuario.md)
+- [Proceso en BPMN](docs/proceso-bpmn.md)
+- [Diccionario de datos (cambios sobre la Entrega 3)](docs/diccionario-de-datos.md)
+- [Indicadores de control](docs/control-e-indicadores.md)
+
 ## Tablero de gestión
 
 [Backlog en GitHub Projects](https://github.com/users/MatiScavuzzo91/projects/1)

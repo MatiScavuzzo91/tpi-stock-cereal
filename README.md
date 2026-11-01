@@ -8,6 +8,10 @@ Es un módulo a medida para una empresa agrícola-ganadera, pensado para dejar a
 
 Por ahora el módulo está en etapa de análisis y diseño, así que este repositorio tiene solo la documentación y todavía no hay código.
 
+## Tablero de gestión
+
+[Backlog en GitHub Projects](https://github.com/users/MatiScavuzzo91/projects/1)
+
 ## Integrantes
 
 - Matías Nicolás Scavuzzo (desarrollador único)
